@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="Personas">Personas</string>
+    <string name="Agregar">AgregarPersona</string>
+    <string name="Modificar">Modificar Persona</string>
+</resources>
